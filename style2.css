@@ -1,0 +1,58 @@
+a{
+    text-decoration: none;
+}
+
+.full-wrapeer{
+    width: 100;
+    
+}
+.wraper{
+    width: 1100px;
+    margin: 0 auto ;
+}
+.logo img{
+    width: 140px;
+    padding:10px 0;
+    float: left;
+}
+.manu{
+    float: left;
+    width: 960px;
+    text-align: right;
+    margin-top: 15px;
+}
+.manu a{
+    color:#000;
+    padding: 10px;
+    font-size: 24px;
+}
+/*=========== banner ==========*/
+.banner-img{
+    background-image: url(2.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 200px 0;
+    clear: both;
+}
+.banner-text{
+    text-align: center;
+}
+.banner-text h1,p{
+    color:black;
+    font-size: 20px;
+}
+/*========= service ==========*/
+.service-item{
+    width: 310px;
+    float: left;
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #777;
+    margin-left: 10px;
+
+}
+.service-item p{
+    display: inline-block;
+}
